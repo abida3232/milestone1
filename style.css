@@ -1,0 +1,29 @@
+body{background-color: blueviolet;
+ color: azure;
+ text-align: center;
+ font-size: medium;
+ font-weight: bold;
+ padding: 0cap;
+ margin-inline-start: auto;
+} 
+form{max-width: 600px;
+    margin: auto;
+    border-radius: 8px;
+    border-color: black;
+
+}
+div{
+    padding: 5pxl;
+    margin: 10pxl;
+    color: azure;
+    text-align: center;
+}
+h2{
+    color: bisque;
+    font-size: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button:hover{
+    background-color: black;
+}
